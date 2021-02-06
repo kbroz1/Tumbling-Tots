@@ -1,0 +1,48 @@
+
+* {
+    text-align:center;
+    font-family: 'Pangolin', cursive;
+}
+body {
+    background-image: url("https://i0.wp.com/zeevector.com/wp-content/uploads/Background/Cloud-background-HD.jpg?w=1200&ssl=1");
+    background-size:cover;
+   
+}
+.title {
+    font-family: 'Fredoka One', cursive;
+    font-size: 80px;
+    color:rgb(5, 17, 54);
+    text-align:right
+}
+
+.card {
+margin: 30px;
+}
+
+#apply {
+    margin-left: 80px;
+}
+
+.form {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.card-title {
+    font-size: 40px;
+    font-style:oblique;
+    color:rgb(5, 17, 54)
+}
+
+
+h4{
+    background-color: lightyellow;
+}
+
+.footer-basic {
+    width:1200px;
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(5, 17, 54);
+    color: white;
+    display:block;
